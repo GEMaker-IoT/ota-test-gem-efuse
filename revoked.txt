@@ -1,2 +1,1 @@
 # revoked devices (factory MAC, lowercase, no colon)
-7ce8b1d347fc
