@@ -1,12 +1,12 @@
 {
   "name": "test-gem-efuse",
-  "version": "20261114.1.1",
+  "version": "20261114.1.2",
   "builds": [
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "path": "firmware/20261114.1.1.ota.bin",
-        "md5": "d179687dabce80e42852b5f6f3cad113"
+        "path": "firmware/20261114.1.2.ota.bin",
+        "md5": "750979331f671fa9e0e847fc8aa2c867"
       }
     }
   ]
